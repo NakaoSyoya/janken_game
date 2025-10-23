@@ -8,7 +8,7 @@ Dockerコンテナ上でも動作し、ライブラリをローカルにイン�
 
 ## 🚀 デモ
 ![alt text](<デモ1.png>)
-![alt text](<デモ2>.png>)
+![alt text](<デモ2.png>)
 ![alt text](<デモ3.png>)
 
 
